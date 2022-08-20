@@ -1,4 +1,4 @@
-# Gerich Eestaurant
+# Gericht Eestaurant
 
 ## The Key To Fine Dining
 
