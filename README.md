@@ -1,4 +1,4 @@
-# Gericht Eestaurant
+# Gericht Restaurant
 
 ## The Key To Fine Dining
 
